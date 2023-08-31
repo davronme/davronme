@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Sass AND React.**
 
-- 📫 How to reach me **davronergashev232@gmail.com**
+- 📫 Email: **davronergashev232@gmail.com**
 
 - ⚡ Fun fact **I think in the real world I am so funny man and I have a great listening skills of people and I can be a great partner.**
 
