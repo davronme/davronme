@@ -1,4 +1,5 @@
-#Hi 👋, I'm Davron Ergashev</h1>
+# Hi 👋, I'm Davron Ergashev
+
 A passionate Frontend developer from Uzbekistan.
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Sass AND React.**
@@ -12,7 +13,7 @@ A passionate Frontend developer from Uzbekistan.
 |  <a href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uehz7kwoo7gesfebbqi8.jpg" alt="html5" width="250" height="" target="_blank"></a> | **E-commerce product page** <br>  Pages about this online shop : <br> <br> <a href="https://github.com/davronme/d-ecommerce-product-page" target="_blank">📜 Repo</a> - <a href="https://d-ecommerce-product-page.netlify.app/" target="_blank">🌐 Netlify</a> - ⌛ 6 hours 24 minutes. <br> <br> Unique aspects 🥸: Creating a menu adapted to the amount of products in the basket, picture gallery and lightbox showcase.|
 |  <a href="https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/nmfs59ofpjizo6knhpsr.jpg" alt="html5" width="250" height="" target="_blank"></a> | **E-commerce product page** <br>  Pages about this online shop : <br> <br> <a href="https://github.com/davronme/d-bookmark" target="_blank">📜 Repo</a> - <a href="https://d-bookmarkme.netlify.app/" target="_blank">🌐 Netlify</a> - ⌛ 4 hours 40 minutes. <br> <br> Unique aspects 🥸: I had a little trouble with overlaying background and normal image and placing browsers. <br>|
 
-+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
