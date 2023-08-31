@@ -9,7 +9,7 @@ A passionate Frontend developer from Uzbekistan.
 
 |  Preview | Definition  |
 |---|---|
-|  <a href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uehz7kwoo7gesfebbqi8.jpg" alt="html5" width="250" height=""/> </a>  |   |
+|  <a href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uehz7kwoo7gesfebbqi8.jpg" alt="html5" width="250" height="" target="_blank"></a> | **E-commerce product page** <br> About project: <br> <br> <a href="https://github.com/davronme/d-ecommerce-product-page" target="_blank">📜 Repo</a>  |
 |   |   |
 +
 <h3 align="left">Languages and Tools:</h3>
