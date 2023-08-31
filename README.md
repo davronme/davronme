@@ -10,7 +10,8 @@ A passionate Frontend developer from Uzbekistan.
 |  Preview | Definition  |
 |---|---|
 |  <a href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uehz7kwoo7gesfebbqi8.jpg" alt="html5" width="250" height="" target="_blank"></a> | **E-commerce product page** <br>  Pages about this online shop : <br> <br> <a href="https://github.com/davronme/d-ecommerce-product-page" target="_blank">📜 Repo</a> - <a href="https://d-ecommerce-product-page.netlify.app/" target="_blank">🌐 Netlify</a> - ⌛ 6 hours 24 minutes. <br> <br> Unique aspects 🥸: Creating a menu adapted to the amount of products in the basket, picture gallery and lightbox showcase.|
-|   |   |
+|  <a href="https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/nmfs59ofpjizo6knhpsr.jpg" alt="html5" width="250" height="" target="_blank"></a> | **E-commerce product page** <br>  Pages about this online shop : <br> <br> <a href="https://github.com/davronme/d-bookmark" target="_blank">📜 Repo</a> - <a href="https://d-bookmarkme.netlify.app/" target="_blank">🌐 Netlify</a> - ⌛ 4 hours 40 minutes. <br> <br> Unique aspects 🥸: Creating a menu adapted to the amount of products in the basket, picture gallery and lightbox showcase. <br>|
+
 +
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
