@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Davron Ergashev</h1>
-<h3 align="center">A passionate Frontend developer from Uzbekistan.</h3>
+#Hi 👋, I'm Davron Ergashev</h1>
+A passionate Frontend developer from Uzbekistan.
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Sass AND React.**
 
@@ -8,9 +8,8 @@
 - ⚡ Fun fact **I think in the real world I am so funny man and I have a great listening skills of people and I can be a great partner.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100076497273554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100076497273554" height="30" width="40" /></a>
-</p>
+
+[Telegram](https://t.me/davron_ergasheev) | [Facebook](https://www.facebook.com/profile.php?id=100076497273554)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
