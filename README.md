@@ -2,7 +2,7 @@
 
 A passionate Frontend developer from Uzbekistan.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Sass AND React I did finished learning them now I am learning woring with team and advanced react.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Sass AND React. I did finished learning them now I am learning woring with team and advanced react.**
 
 - 📫 Email: **davronergashev232@gmail.com**
 
